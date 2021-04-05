@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Farrukh51/hrApplication/static/css/main.cc6dd91e.chunk.css",
+    "main.js": "/Farrukh51/hrApplication/static/js/main.75de41aa.chunk.js",
+    "main.js.map": "/Farrukh51/hrApplication/static/js/main.75de41aa.chunk.js.map",
+    "runtime-main.js": "/Farrukh51/hrApplication/static/js/runtime-main.07f7df00.js",
+    "runtime-main.js.map": "/Farrukh51/hrApplication/static/js/runtime-main.07f7df00.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/Farrukh51/hrApplication/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.39bc1af3.chunk.js": "/Farrukh51/hrApplication/static/js/2.39bc1af3.chunk.js",
+    "static/js/2.39bc1af3.chunk.js.map": "/Farrukh51/hrApplication/static/js/2.39bc1af3.chunk.js.map",
+    "static/js/3.83531f88.chunk.js": "/Farrukh51/hrApplication/static/js/3.83531f88.chunk.js",
+    "static/js/3.83531f88.chunk.js.map": "/Farrukh51/hrApplication/static/js/3.83531f88.chunk.js.map",
+    "index.html": "/Farrukh51/hrApplication/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/Farrukh51/hrApplication/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.cc6dd91e.chunk.css.map": "/Farrukh51/hrApplication/static/css/main.cc6dd91e.chunk.css.map",
+    "static/js/2.39bc1af3.chunk.js.LICENSE.txt": "/Farrukh51/hrApplication/static/js/2.39bc1af3.chunk.js.LICENSE.txt",
+    "static/media/global.css": "/Farrukh51/hrApplication/static/media/background1.74653ab6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07f7df00.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.39bc1af3.chunk.js",
+    "static/css/main.cc6dd91e.chunk.css",
+    "static/js/main.75de41aa.chunk.js"
+  ]
+}
